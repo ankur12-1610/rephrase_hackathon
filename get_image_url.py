@@ -5,6 +5,7 @@ import json
 with open('prompt_text.txt') as f:
     prompt_text = f.read()
 
+# fetching data from stable diffusion
 url = "https://stablediffusionapi.com/api/v3/text2img"
 
 payload = json.dumps({
@@ -31,4 +32,9 @@ response = requests.request("POST", url, headers=headers, data=payload)
 data = response.json()
 img_url = data['output'][0]
 print(data)
-print(prompt_text)
+print(img_url)
+
+# saving it in `image_url.txt`
+f = open("image_url.txt", "w")
+f.write(img_url)
+f.close()
