@@ -1,0 +1,60 @@
+Ankur Patil
+Portfolio: ankur.codes Mobile: +91-937-3942-506
+Github: github.com/ankur12-1610 Email: contact@ankur.codes
+Education
+•Indian Institute of Technology (BHU) Varanasi Nov 2020 - Present
+Integrated Dual Degree (B.Tech + M.Tech) - Mathematics & Computing CPI: 9.46
+Experience
+•Cloud Native Computing Foundation (CNCF) - GoogleCloudPlatform March 2023 - Present
+Linux Foundation Mentorship
+◦Working on Lit-based view components for TestGrid that display data from the API.
+◦Jasmine and Storybook testing are used for these components.
+◦Exposure : GO, TypeScript, Frontend Testing (Jasmine, StoryBook)
+•Element/Matrix.org Jul 2022 - Sept 2022
+Software Developer
+◦Implemented Knockable rooms in the Element Web (Knocking is the feature that allows users to send a request to join a
+space or room.)
+◦Wrote Cypress tests and unit tests.
+◦Created new GitHub Actions for the organization which is used near about 50+ times a week and also fixed minor UI
+bugs.
+◦Exposure : React, SDKs, Cypress, GitHub Actions, TypeScript
+•Summer of Bitcoin - Specter Desktop May 2022 - Aug 2022
+Student Developer
+◦Implemented JWT Authentication to the REST API of Specter-Desktop.
+◦Increased the security of the REST API by adding a new layer of authentication.
+◦Followed test-driven development and wrote Pytests.
+◦Exposure : REST APIs, Access Tokens, Flask, Pytest, Bitcoin-Core
+Projects
+•SnapX (github.com/snapx ): SnapX is a MetaMask snap powered with notifications and account recovery features using
+biometric authentication. ( Silver Medalist submission in ConsenSys’ MetaMask Snap Development Hackathon conducted at
+InterIIT Tech Meet 11.0 — February 2023) Tech: MetaMask Snaps, Gatsby, REST APIs, FaceIO, AES, Bitcoin Protocols
+•Pull Request Action (github.com/pull-request-action ): The GitHub action that activates when a contributor raises a
+PR. It comments and reacts to the PR. Moreover, assigns the PR to the author. Tech: Octokit REST API, GitHub Actions,
+TypeScript, Docker
+•Google Classroom Clone (github.com/google-classroom-clone ): A fullstack webapp which has functionalities like
+Google Classroom. The frontend is made with React and integrated into the backend server with Axios and backend is built
+upon Django REST Framework. Tech: Django REST Framework, Axios, Heroku, Postgresql, React
+•Hackalog Frontend (github.com/hackalog-frontend ): Developed college’s hackathon platform for conducting hackathon
+and Dev sprints. Resolved linting errors present in the codebase and migrated files from javascript to typescript.
+Tech: Netlify, NextJs, Bootstrap, Husky
+•Covid19 Detector (github.com/covid19-detector ): A deep learning algorithm implemented to detect Covid-19
+coronavirus with X-Ray images. ReLU, max pooling, flattening layer and a dropout layer of 20% dropout rate form the basis
+of the model. The model achieved an overwhelming accuracy of 97% .
+Tech: Keras, Numpy, ReLU
+Honors and Awards
+•Lead the team and won Silver Medal in ConsenSys’ Metamask Snap Development Hackathon, InterIIT Tech Meet 11.0
+•Summer of Bitcoin ’22 : Was among the 83 selected interns which were shortlisted amongst 20,000 applicants.
+•OSS Intern @ Matrix.org : Bagged an Open Source internship on the basis of significant contributions made to Matrix.org
+•I have recorded 1000+ opensource contributions on GitHub and have 3000+ views on my personal blog: blog.ankur.codes
+•2nd prize in Robovation, a Robotics event conducted under Technex ’21, Asia’s oldest techno-management festival.
+Volunteer Experience
+•Open Source Contributor July 2021 - Present
+◦I’ve contributed to various open source organizations like Matrix, Specter Desktop, Zulip
+and Kiwix.
+◦Click here to see all my OSS contributions.
+•Club of Programmers, IIT (BHU) Aug 2021 - Present
+◦Contributed to various projects of the organisation.
+◦Conducted workshops on technologies like JavaScript, GitHub and GitHub Actions which were attended by 500+
+students.
+◦Actively mentoring a community of 1000+ students learning software development.
+◦Created youtube videos for the official youtube handle of COPS.

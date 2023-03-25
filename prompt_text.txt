@@ -1,0 +1,23 @@
+1. Ankur Patil
+2. Integrated Dual Degree
+3. Indian Institute of Technology
+4. Mathematics & Computing
+5. CPI
+6. Software Developer
+7. Element/Matrix.org
+8. Student Developer
+9. Summer of Bitcoin - Specter Desktop
+10. Linux Foundation Mentorship
+11. Cloud Native Computing Foundation (CNCF) - GoogleCloudPlatform
+12. SnapX
+13. Pull Request Action
+14. Google Classroom Clone
+15. Hackalog Frontend
+16. Covid19 Detector
+17. Honors
+18. Open Source Contributor
+19. Club of Programmers
+20. Workshops
+21. Mentoring
+22. GitHub
+23. Personal blog.
