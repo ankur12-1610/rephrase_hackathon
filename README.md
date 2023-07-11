@@ -1,4 +1,5 @@
-# Rephrase.ai Hackathon project
+# Paper to Motion
+> A text to video converter
 # Installation
 To run the whole project at one go, run:
 - `bash run.sh` 
